@@ -1,6 +1,5 @@
-# transport_app
+# Transportation Application
 
-A new Flutter project.
 
 ## Getting Started
 
